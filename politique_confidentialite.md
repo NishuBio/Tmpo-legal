@@ -2,10 +2,10 @@
 
 **Dernière mise à jour : 21 août 2026**
 
-Bienvenue sur l'application Bionutri (ci-après "l'Application"). La protection de vos données personnelles est notre priorité. La présente politique vise à vous informer, conformément au Règlement Général sur la Protection des Données (RGPD) (Règlement (UE) 2016/679) et à la loi Informatique et Libertés en France, sur la manière dont nous collectons, utilisons et protégeons vos informations.
+Bienvenue sur l'application Tmpo.care (ci-après "l'Application"). La protection de vos données personnelles est notre priorité. La présente politique vise à vous informer, conformément au Règlement Général sur la Protection des Données (RGPD) (Règlement (UE) 2016/679) et à la loi Informatique et Libertés en France, sur la manière dont nous collectons, utilisons et protégeons vos informations.
 
 ## 1. Responsable du traitement
-Le responsable du traitement des données est Nishu Kaur-Krishan, (Éditeur de l'application Bionutri - Société en cours de formation), domicilée à Vincennes, France.
+Le responsable du traitement des données est Nishu Kaur-Krishan, (Éditeur de l'application Tmpo.care - Société en cours de formation), domicilée à Vincennes, France.
 Email de contact pour toute question relative aux données : tmpo.care@gmail.com.
 
 ## 2. Données collectées et finalités
