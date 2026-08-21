@@ -3,11 +3,11 @@
 **Dernière mise à jour : 21 août 2026**
 
 ## 1. Objet
-Les présentes Conditions Générales d'Utilisation (ci-après "CGU") ont pour objet de définir les modalités et conditions dans lesquelles Nishu Kaur-Krishan (Éditeur de l'application Tmpo.care) met à disposition des utilisateurs (ci-après "l'Utilisateur") l'application Bionutri (ci-après "l'Application") et les services disponibles sur celle-ci.
+Les présentes Conditions Générales d'Utilisation (ci-après "CGU") ont pour objet de définir les modalités et conditions dans lesquelles Nishu Kaur-Krishan (Éditeur de l'application Tmpo.care) met à disposition des utilisateurs (ci-après "l'Utilisateur") l'application Tmpo.care (ci-après "l'Application") et les services disponibles sur celle-ci.
 L'utilisation de l'Application implique l'acceptation pleine et entière des présentes CGU par l'Utilisateur.
 
 ## 2. Avertissement Médical Important
-L'Application Bionutri fournit des informations générales, des recettes, et des recommandations en matière de nutrition et de bien-être, qui peuvent être liées au cycle menstruel ou à certaines pathologies (SOPK, Endométriose, etc.). 
+L'Application Tmpo.care fournit des informations générales, des recettes, et des recommandations en matière de nutrition et de bien-être, qui peuvent être liées au cycle menstruel ou à certaines pathologies (SOPK, Endométriose, etc.). 
 **Les informations fournies par l'Application ne constituent en aucun cas un avis médical, un diagnostic ou une prescription.** 
 En cas de problème de santé ou avant de modifier votre régime alimentaire, il est impératif de consulter un médecin ou un professionnel de santé qualifié. L'éditeur ne saurait être tenu responsable d'une quelconque conséquence liée à l'utilisation des informations proposées sur l'Application.
 
