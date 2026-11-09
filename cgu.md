@@ -1,6 +1,6 @@
 # Conditions Générales d'Utilisation (CGU)
 
-**Dernière mise à jour : 21 août 2026**
+**Dernière mise à jour : 9 novembre 2026**
 
 ## 1. Objet
 Les présentes Conditions Générales d'Utilisation (ci-après "CGU") ont pour objet de définir les modalités et conditions dans lesquelles Nishu Kaur-Krishan (Éditeur de l'application Tmpo.care) met à disposition des utilisateurs (ci-après "l'Utilisateur") l'application Tmpo.care (ci-après "l'Application") et les services disponibles sur celle-ci.
@@ -8,6 +8,13 @@ L'utilisation de l'Application implique l'acceptation pleine et entière des pr�
 
 ## 2. Avertissement Médical Important
 L'Application Tmpo.care fournit des informations générales, des recettes, et des recommandations en matière de nutrition et de bien-être, qui peuvent être liées au cycle menstruel ou à certaines pathologies (SOPK, Endométriose, etc.). 
+
+**Absence de qualification de dispositif médical :**  
+L'Application ne constitue en aucun cas un dispositif médical au sens de la réglementation européenne (Règlement (UE) 2017/745). Elle n'a pas été conçue pour diagnostiquer, prévenir, surveiller, traiter ou soulager une maladie.
+
+**Absence de méthode ou dispositif de contraception :**  
+L'Application ne constitue en aucun cas une méthode de contraception, un dispositif contraceptif ou un moyen de régulation des naissances. Les algorithmes, prédictions et fenêtres de fertilité affichés sont délivrés à titre purement indicatif et éducatif, et ne doivent sous aucun prétexte être utilisés pour éviter une grossesse.
+
 **Les informations fournies par l'Application ne constituent en aucun cas un avis médical, un diagnostic ou une prescription.** 
 En cas de problème de santé ou avant de modifier votre régime alimentaire, il est impératif de consulter un médecin ou un professionnel de santé qualifié. L'éditeur ne saurait être tenu responsable d'une quelconque conséquence liée à l'utilisation des informations proposées sur l'Application.
 
